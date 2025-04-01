@@ -5,7 +5,8 @@
 Análisar o dataset com o objetivo de identificar as variáveis que mais influênciam na precificação dos carros.
 
 ### Etapas:
-1.Análise descrita dos dados
+
+1. Análise descrita dos dados
 2. Análise Exploratória
 3. Normalização dos dados
 4. Codigicação de variáveis categóricas
